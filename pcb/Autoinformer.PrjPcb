@@ -105,7 +105,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -211,7 +211,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -295,7 +295,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -317,7 +317,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -389,7 +389,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -426,7 +426,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -606,7 +606,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -650,7 +650,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -711,7 +711,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP LaserJet 3055
+TargetPrinter=DTI-SPrn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1089,7 +1089,7 @@ ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=MyCompLib.SchLib
 ComponentDesignItemID2=BNX003-01
 ComponentSymbolReference2=BNX003-01
-ComponentUpdate2=1
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=MyCompLib.SchLib
@@ -1179,7 +1179,7 @@ ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=MyCompLib.SchLib
 ComponentDesignItemID17=NAU8810YG
 ComponentSymbolReference17=NAU8810YG
-ComponentUpdate17=0
+ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=MyCompLib.SchLib
@@ -1209,7 +1209,7 @@ ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=MyCompLib.SchLib
 ComponentDesignItemID22=SMF05C
 ComponentSymbolReference22=SMF05C
-ComponentUpdate22=1
+ComponentUpdate22=0
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=MyCompLib.SchLib
@@ -1312,70 +1312,78 @@ ParameterName12=ComponentLink4Description
 ParameterUpdate12=1
 ParameterName13=ComponentLink4URL
 ParameterUpdate13=1
-ParameterName14=Datasheet Link
+ParameterName14=ComponentLink5Description
 ParameterUpdate14=1
-ParameterName15=Description
+ParameterName15=ComponentLink5URL
 ParameterUpdate15=1
-ParameterName16=Digikey Description
+ParameterName16=ComponentLink6Description
 ParameterUpdate16=1
-ParameterName17=Digikey Part Number
+ParameterName17=ComponentLink6URL
 ParameterUpdate17=1
-ParameterName18=Digi-Key_Part_Number
+ParameterName18=Datasheet Link
 ParameterUpdate18=1
-ParameterName19=Digi-Key_Purchase_URL
+ParameterName19=Description
 ParameterUpdate19=1
-ParameterName20=Height
+ParameterName20=Digikey Description
 ParameterUpdate20=1
-ParameterName21=helpURL
+ParameterName21=Digikey Part Number
 ParameterUpdate21=1
-ParameterName22=Ipc Land Pattern Name
+ParameterName22=Digi-Key_Part_Number
 ParameterUpdate22=1
-ParameterName23=Lead Free
+ParameterName23=Digi-Key_Purchase_URL
 ParameterUpdate23=1
-ParameterName24=Library Reference
+ParameterName24=Height
 ParameterUpdate24=1
-ParameterName25=Manufacturer
+ParameterName25=helpURL
 ParameterUpdate25=1
-ParameterName26=Manufacturer_Name
+ParameterName26=Ipc Land Pattern Name
 ParameterUpdate26=1
-ParameterName27=Manufacturer_Part_Number
+ParameterName27=Lead Free
 ParameterUpdate27=1
-ParameterName28=MF
+ParameterName28=Library Reference
 ParameterUpdate28=1
-ParameterName29=Mouser Part Number
+ParameterName29=Manufacturer
 ParameterUpdate29=1
-ParameterName30=Mouser Price/Stock
+ParameterName30=Manufacturer_Name
 ParameterUpdate30=1
-ParameterName31=MP
+ParameterName31=Manufacturer_Part_Number
 ParameterUpdate31=1
-ParameterName32=Package
+ParameterName32=MF
 ParameterUpdate32=1
-ParameterName33=Price
+ParameterName33=Mouser Part Number
 ParameterUpdate33=1
-ParameterName34=Purchase-URL
+ParameterName34=Mouser Price/Stock
 ParameterUpdate34=1
-ParameterName35=RoHS
+ParameterName35=MP
 ParameterUpdate35=1
-ParameterName36=SnapEDA_Link
+ParameterName36=Package
 ParameterUpdate36=1
-ParameterName37=Supplier 1
+ParameterName37=Price
 ParameterUpdate37=1
-ParameterName38=Supplier 2
+ParameterName38=Purchase-URL
 ParameterUpdate38=1
-ParameterName39=Supplier Part Number 1
+ParameterName39=RoHS
 ParameterUpdate39=1
-ParameterName40=Supplier Part Number 2
+ParameterName40=SnapEDA_Link
 ParameterUpdate40=1
-ParameterName41=Temperature
+ParameterName41=Supplier 1
 ParameterUpdate41=1
-ParameterName42=Temperature Range High
+ParameterName42=Supplier 2
 ParameterUpdate42=1
-ParameterName43=Temperature Range Low
+ParameterName43=Supplier Part Number 1
 ParameterUpdate43=1
-ParameterName44=Value
+ParameterName44=Supplier Part Number 2
 ParameterUpdate44=1
-ParameterName45=Voltage
+ParameterName45=Temperature
 ParameterUpdate45=1
+ParameterName46=Temperature Range High
+ParameterUpdate46=1
+ParameterName47=Temperature Range Low
+ParameterUpdate47=1
+ParameterName48=Value
+ParameterUpdate48=1
+ParameterName49=Voltage
+ParameterUpdate49=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
