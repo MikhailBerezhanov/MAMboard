@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Autoinformer
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -158,7 +158,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=-1
+ProjectMode=0
 ZoomPrecision=50
 AddNetsInformation=0
 AddNetPins=0
@@ -190,7 +190,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Autoinformer
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1798,7 +1798,7 @@ ModelType48=PCBLIB
 ModelName48=PY-401N
 ModelUpdate48=1
 ModelType49=PCBLIB
-ModelName49=PY601-N
+ModelName49=PY-601N
 ModelUpdate49=1
 ModelType50=PCBLIB
 ModelName50=R_SMD0402
