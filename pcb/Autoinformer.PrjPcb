@@ -173,6 +173,62 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Autoinformer\AutoinformerPCB.RUL
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=libs\*.*
 IncludeSubFolders=1
@@ -229,7 +285,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -335,7 +391,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -447,7 +503,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -469,7 +525,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -482,7 +538,43 @@ OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.55|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration2_Name3=OutputConfigurationParameter2
+Configuration2_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Drill Drawing For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration2_Name4=OutputConfigurationParameter3
+Configuration2_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name5=OutputConfigurationParameter4
+Configuration2_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name6=OutputConfigurationParameter5
+Configuration2_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name7=OutputConfigurationParameter6
+Configuration2_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name8=OutputConfigurationParameter7
+Configuration2_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical12|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name9=OutputConfigurationParameter8
+Configuration2_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name10=OutputConfigurationParameter9
+Configuration2_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration2_Name11=OutputConfigurationParameter10
+Configuration2_Item11=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Drill Guide For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration2_Name12=OutputConfigurationParameter11
+Configuration2_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration2_Name13=OutputConfigurationParameter12
+Configuration2_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration2_Name14=OutputConfigurationParameter13
+Configuration2_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration2_Name15=OutputConfigurationParameter14
+Configuration2_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration2_Name16=OutputConfigurationParameter15
+Configuration2_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical12|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration2_Name17=OutputConfigurationParameter16
+Configuration2_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration2_Name18=OutputConfigurationParameter17
+Configuration2_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 OutputType3=Board Stack Report
 OutputName3=Report Board Stack
 OutputDocumentPath3=
@@ -549,7 +641,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -600,7 +692,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -780,7 +872,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -824,7 +916,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -885,7 +977,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=DTI-SPrn
+TargetPrinter=HP LaserJet 3055
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1401,7 +1493,7 @@ ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=MyCompLib.SchLib
 ComponentDesignItemID25=LED_SMD
 ComponentSymbolReference25=LED_SMD
-ComponentUpdate25=1
+ComponentUpdate25=0
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=MyCompLib.SchLib
@@ -1479,7 +1571,7 @@ ComponentLibIdentifierKind38=Library Name And Type
 ComponentLibraryIdentifier38=MyCompLib.SchLib
 ComponentDesignItemID38=microSIM_Holder_5039600696
 ComponentSymbolReference38=microSIM_Holder_5039600696
-ComponentUpdate38=0
+ComponentUpdate38=1
 ComponentIsDeviceSheet38=0
 ComponentLibIdentifierKind39=Library Name And Type
 ComponentLibraryIdentifier39=MyCompLib.SchLib
@@ -1573,8 +1665,8 @@ ComponentUpdate53=0
 ComponentIsDeviceSheet53=0
 ComponentLibIdentifierKind54=Library Name And Type
 ComponentLibraryIdentifier54=MyCompLib.SchLib
-ComponentDesignItemID54=STM32L071C8T6
-ComponentSymbolReference54=STM32L071C8T6
+ComponentDesignItemID54=STM32L151CBT6A
+ComponentSymbolReference54=STM32L151CBT6A
 ComponentUpdate54=0
 ComponentIsDeviceSheet54=0
 ComponentLibIdentifierKind55=Library Name And Type
@@ -1662,112 +1754,108 @@ ParameterName16=ComponentLink6Description
 ParameterUpdate16=1
 ParameterName17=ComponentLink6URL
 ParameterUpdate17=1
-ParameterName18=ComponentLink7Description
+ParameterName18=Core
 ParameterUpdate18=1
-ParameterName19=ComponentLink7URL
+ParameterName19=Datasheet Link
 ParameterUpdate19=1
-ParameterName20=Core
+ParameterName20=DatasheetVersion
 ParameterUpdate20=1
-ParameterName21=Datasheet Link
+ParameterName21=Description
 ParameterUpdate21=1
-ParameterName22=DatasheetVersion
+ParameterName22=Digikey Description
 ParameterUpdate22=1
-ParameterName23=Description
+ParameterName23=Digikey Part Number
 ParameterUpdate23=1
-ParameterName24=Digikey Description
+ParameterName24=Digi-Key_Part_Number
 ParameterUpdate24=1
-ParameterName25=Digikey Part Number
+ParameterName25=Digi-Key_Purchase_URL
 ParameterUpdate25=1
-ParameterName26=Digi-Key_Part_Number
+ParameterName26=FLASH Size (Prog) (kB)
 ParameterUpdate26=1
-ParameterName27=Digi-Key_Purchase_URL
+ParameterName27=Height
 ParameterUpdate27=1
-ParameterName28=FLASH Size (Prog) (kB)
+ParameterName28=helpURL
 ParameterUpdate28=1
-ParameterName29=Height
+ParameterName29=I/Os (High Current)
 ParameterUpdate29=1
-ParameterName30=helpURL
+ParameterName30=Internal RAM Size (kB)
 ParameterUpdate30=1
-ParameterName31=I/Os (High Current)
+ParameterName31=Ipc Land Pattern Name
 ParameterUpdate31=1
-ParameterName32=Internal RAM Size (kB)
+ParameterName32=Lead Free
 ParameterUpdate32=1
-ParameterName33=Ipc Land Pattern Name
+ParameterName33=Library Reference
 ParameterUpdate33=1
-ParameterName34=Lead Free
+ParameterName34=Manufacturer
 ParameterUpdate34=1
-ParameterName35=Library Reference
+ParameterName35=Manufacturer_Name
 ParameterUpdate35=1
-ParameterName36=Manufacturer
+ParameterName36=Manufacturer_Part_Number
 ParameterUpdate36=1
-ParameterName37=Manufacturer_Name
+ParameterName37=MF
 ParameterUpdate37=1
-ParameterName38=Manufacturer_Part_Number
+ParameterName38=Mounting Technology
 ParameterUpdate38=1
-ParameterName39=MF
+ParameterName39=Mouser Part Number
 ParameterUpdate39=1
-ParameterName40=Mounting Technology
+ParameterName40=Mouser Price/Stock
 ParameterUpdate40=1
-ParameterName41=Mouser Part Number
+ParameterName41=MP
 ParameterUpdate41=1
-ParameterName42=Mouser Price/Stock
+ParameterName42=Operating Frequency(F) (Processor speed) (MHz)
 ParameterUpdate42=1
-ParameterName43=MP
+ParameterName43=Package
 ParameterUpdate43=1
-ParameterName44=Operating Frequency(F) (Processor speed) (MHz)
+ParameterName44=PackageDescription
 ParameterUpdate44=1
-ParameterName45=Package
+ParameterName45=PackageReference
 ParameterUpdate45=1
-ParameterName46=PackageDescription
+ParameterName46=PackageVersion
 ParameterUpdate46=1
-ParameterName47=PackageReference
+ParameterName47=Packing
 ParameterUpdate47=1
-ParameterName48=PackageVersion
+ParameterName48=PartNumber
 ParameterUpdate48=1
-ParameterName49=Packing
+ParameterName49=Price
 ParameterUpdate49=1
-ParameterName50=PartNumber
+ParameterName50=RoHS
 ParameterUpdate50=1
-ParameterName51=Price
+ParameterName51=SnapEDA_Link
 ParameterUpdate51=1
-ParameterName52=RoHS
+ParameterName52=Supplier 1
 ParameterUpdate52=1
-ParameterName53=SnapEDA_Link
+ParameterName53=Supplier 2
 ParameterUpdate53=1
-ParameterName54=Supplier 1
+ParameterName54=Supplier 3
 ParameterUpdate54=1
-ParameterName55=Supplier 2
+ParameterName55=Supplier 4
 ParameterUpdate55=1
-ParameterName56=Supplier 3
+ParameterName56=Supplier 5
 ParameterUpdate56=1
-ParameterName57=Supplier 4
+ParameterName57=Supplier Part Number 1
 ParameterUpdate57=1
-ParameterName58=Supplier 5
+ParameterName58=Supplier Part Number 2
 ParameterUpdate58=1
-ParameterName59=Supplier Part Number 1
+ParameterName59=Supplier Part Number 3
 ParameterUpdate59=1
-ParameterName60=Supplier Part Number 2
+ParameterName60=Supplier Part Number 4
 ParameterUpdate60=1
-ParameterName61=Supplier Part Number 3
+ParameterName61=Supplier Part Number 5
 ParameterUpdate61=1
-ParameterName62=Supplier Part Number 4
+ParameterName62=Supply Voltage(Vcc) min (V)
 ParameterUpdate62=1
-ParameterName63=Supplier Part Number 5
+ParameterName63=Temperature
 ParameterUpdate63=1
-ParameterName64=Supply Voltage(Vcc) min (V)
+ParameterName64=Temperature Range High
 ParameterUpdate64=1
-ParameterName65=Temperature
+ParameterName65=Temperature Range Low
 ParameterUpdate65=1
-ParameterName66=Temperature Range High
+ParameterName66=Texas_Instruments-Purchase-URL
 ParameterUpdate66=1
-ParameterName67=Temperature Range Low
+ParameterName67=Value
 ParameterUpdate67=1
-ParameterName68=Texas_Instruments-Purchase-URL
+ParameterName68=Voltage
 ParameterUpdate68=1
-ParameterName69=Value
-ParameterUpdate69=1
-ParameterName70=Voltage
-ParameterUpdate70=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1885,176 +1973,179 @@ ModelType37=PCBLIB
 ModelName37=LED_SMD1608
 ModelUpdate37=1
 ModelType38=PCBLIB
-ModelName38=LED_SMD1608GREEN
+ModelName38=LED_SMD1608 + THR0254
 ModelUpdate38=1
 ModelType39=PCBLIB
-ModelName39=LOGO_FLC
+ModelName39=LED_SMD1608GREEN
 ModelUpdate39=1
 ModelType40=PCBLIB
-ModelName40=LOGO_SS
+ModelName40=LOGO_FLC
 ModelUpdate40=1
 ModelType41=PCBLIB
-ModelName41=LQFP48_L
+ModelName41=LOGO_SS
 ModelUpdate41=1
 ModelType42=PCBLIB
-ModelName42=LQFP48_M
+ModelName42=LQFP48_L
 ModelUpdate42=1
 ModelType43=PCBLIB
-ModelName43=LQFP48_N
+ModelName43=LQFP48_M
 ModelUpdate43=1
 ModelType44=PCBLIB
-ModelName44=MOLEX_1050170001
+ModelName44=LQFP48_N
 ModelUpdate44=1
 ModelType45=PCBLIB
-ModelName45=MOLEX_1050170001 - compact
+ModelName45=MOLEX_1050170001
 ModelUpdate45=1
 ModelType46=PCBLIB
-ModelName46=Molex_146200-0001_MFG
+ModelName46=MOLEX_1050170001 - compact
 ModelUpdate46=1
 ModelType47=PCBLIB
-ModelName47=Molex_146200-0011_MFG
+ModelName47=Molex_146200-0001_MFG
 ModelUpdate47=1
 ModelType48=PCBLIB
-ModelName48=MOLEX_uSIM_5039600696
+ModelName48=Molex_146200-0011_MFG
 ModelUpdate48=1
 ModelType49=PCBLIB
-ModelName49=Murata_BNX_L12MM5_W11MM5_T13MM0_MFG
+ModelName49=MOLEX_uSIM_5039600696
 ModelUpdate49=1
 ModelType50=PCBLIB
-ModelName50=Murata_LXES15_IPC_A
+ModelName50=Murata_BNX_L12MM5_W11MM5_T13MM0_MFG
 ModelUpdate50=1
 ModelType51=PCBLIB
-ModelName51=NAU8810YG
+ModelName51=Murata_LXES15_IPC_A
 ModelUpdate51=1
 ModelType52=PCBLIB
-ModelName52=PLD1X6
+ModelName52=NAU8810YG
 ModelUpdate52=1
 ModelType53=PCBLIB
-ModelName53=PLD2
+ModelName53=PLD1X6
 ModelUpdate53=1
 ModelType54=PCBLIB
-ModelName54=PLD2X8
+ModelName54=PLD2
 ModelUpdate54=1
 ModelType55=PCBLIB
-ModelName55=PY-401N
+ModelName55=PLD2X8
 ModelUpdate55=1
 ModelType56=PCBLIB
-ModelName56=PY-401N - compact
+ModelName56=PY-401N
 ModelUpdate56=1
 ModelType57=PCBLIB
-ModelName57=PY-601N
+ModelName57=PY-401N - compact
 ModelUpdate57=1
 ModelType58=PCBLIB
-ModelName58=PY-601N - compact
+ModelName58=PY-601N
 ModelUpdate58=1
 ModelType59=PCBLIB
-ModelName59=R_SMD0402
+ModelName59=PY-601N - compact
 ModelUpdate59=1
 ModelType60=PCBLIB
-ModelName60=R_SMD0603
+ModelName60=R_SMD0402
 ModelUpdate60=1
 ModelType61=PCBLIB
-ModelName61=R_SMD0805
+ModelName61=R_SMD0603
 ModelUpdate61=1
 ModelType62=PCBLIB
-ModelName62=R_SMD1206
+ModelName62=R_SMD0805
 ModelUpdate62=1
 ModelType63=PCBLIB
-ModelName63=R_SMD1812
+ModelName63=R_SMD1206
 ModelUpdate63=1
 ModelType64=PCBLIB
-ModelName64=R_SMD2512
+ModelName64=R_SMD1812
 ModelUpdate64=1
 ModelType65=PCBLIB
-ModelName65=R_SMD4527
+ModelName65=R_SMD2512
 ModelUpdate65=1
 ModelType66=PCBLIB
-ModelName66=SMA-FEMALE_Molex -73391-0060
+ModelName66=R_SMD4527
 ModelUpdate66=1
 ModelType67=PCBLIB
-ModelName67=SMA-FEMALE-RA - L-KLS1-SMA002-B
+ModelName67=SMA-FEMALE_Molex -73391-0060
 ModelUpdate67=1
 ModelType68=PCBLIB
-ModelName68=SMA-FEMALE-RA-Molex-0731000114
+ModelName68=SMA-FEMALE-RA - L-KLS1-SMA002-B
 ModelUpdate68=1
 ModelType69=PCBLIB
-ModelName69=SMA-MALE
+ModelName69=SMA-FEMALE-RA-Molex-0731000114
 ModelUpdate69=1
 ModelType70=PCBLIB
-ModelName70=SMA-MALE-RA-L-KLS1-SMA015
+ModelName70=SMA-MALE
 ModelUpdate70=1
 ModelType71=PCBLIB
-ModelName71=SMC
+ModelName71=SMA-MALE-RA-L-KLS1-SMA015
 ModelUpdate71=1
 ModelType72=PCBLIB
-ModelName72=SMF05C
+ModelName72=SMC
 ModelUpdate72=1
 ModelType73=PCBLIB
-ModelName73=SOD-123_3716X135N
+ModelName73=SMF05C
 ModelUpdate73=1
 ModelType74=PCBLIB
-ModelName74=SOD-323
+ModelName74=SOD-123_3716X135N
 ModelUpdate74=1
 ModelType75=PCBLIB
-ModelName75=SOIC127P600X175-9N
+ModelName75=SOD-323
 ModelUpdate75=1
 ModelType76=PCBLIB
-ModelName76=SOP65P490X110-8N
+ModelName76=SOIC127P600X175-9N
 ModelUpdate76=1
 ModelType77=PCBLIB
-ModelName77=SOP65P640X120-14N
+ModelName77=SOP65P490X110-8N
 ModelUpdate77=1
 ModelType78=PCBLIB
-ModelName78=SOP65P640X120-8N
+ModelName78=SOP65P640X120-14N
 ModelUpdate78=1
 ModelType79=PCBLIB
-ModelName79=SOT223
+ModelName79=SOP65P640X120-8N
 ModelUpdate79=1
 ModelType80=PCBLIB
-ModelName80=SOT23
+ModelName80=SOT223
 ModelUpdate80=1
 ModelType81=PCBLIB
-ModelName81=SOT23-3
+ModelName81=SOT23
 ModelUpdate81=1
 ModelType82=PCBLIB
-ModelName82=SOT23-6-D
+ModelName82=SOT23-3
 ModelUpdate82=1
 ModelType83=PCBLIB
-ModelName83=SP0503BAHTG
+ModelName83=SOT23-6-D
 ModelUpdate83=1
 ModelType84=PCBLIB
-ModelName84=SRR1208
+ModelName84=SP0503BAHTG
 ModelUpdate84=1
 ModelType85=PCBLIB
-ModelName85=TDA2003V
+ModelName85=SRR1208
 ModelUpdate85=1
 ModelType86=PCBLIB
-ModelName86=TDA2003V _HS-117-30 (ABM-161-30)
+ModelName86=TDA2003V
 ModelUpdate86=1
 ModelType87=PCBLIB
-ModelName87=TECAP_A
+ModelName87=TDA2003V _HS-117-30 (ABM-161-30)
 ModelUpdate87=1
 ModelType88=PCBLIB
-ModelName88=TECAP_B
+ModelName88=TECAP_A
 ModelUpdate88=1
 ModelType89=PCBLIB
-ModelName89=TECAP_C
+ModelName89=TECAP_B
 ModelUpdate89=1
 ModelType90=PCBLIB
-ModelName90=TECAP_D
+ModelName90=TECAP_C
 ModelUpdate90=1
 ModelType91=PCBLIB
-ModelName91=TECAP_E
+ModelName91=TECAP_D
 ModelUpdate91=1
 ModelType92=PCBLIB
-ModelName92=TEST_POINT
+ModelName92=TECAP_E
 ModelUpdate92=1
 ModelType93=PCBLIB
-ModelName93=TO263-5
+ModelName93=TEST_POINT
 ModelUpdate93=1
 ModelType94=PCBLIB
-ModelName94=TO263-5 - heatsink
+ModelName94=TO263-5
 ModelUpdate94=1
+ModelType95=PCBLIB
+ModelName95=TO263-5 - heatsink
+ModelUpdate95=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
