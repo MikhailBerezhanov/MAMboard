@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Autoinformer.PrjPcb]
+   Generated File[AutoinformerPCB-RoundHoles.TXT]
+   Generated File[AutoinformerPCB-SlotHoles.TXT]
+   Generated File[AutoinformerPCB.LDP]
+   Generated File[AutoinformerPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:45:13 On 24.06.2021
