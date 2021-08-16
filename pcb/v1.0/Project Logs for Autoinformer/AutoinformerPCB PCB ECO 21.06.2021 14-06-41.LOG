@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=C21 Old Footprint=C_SMD0603 New Footprint=C_SMD0603
+Change Physical Footprint: Designator=R41 Old Footprint=R_SMD1206 New Footprint=R_SMD1206
+Change Physical Footprint: Designator=X1 Old Footprint=MOLEX_uSIM_5039600696 New Footprint=MOLEX_uSIM_5039600696
+Change Physical Footprint: Designator=X2 Old Footprint=112JTDARR New Footprint=112JTDARR
+Change Physical Footprint: Designator=X3 Old Footprint=MOLEX_1050170001 - compact New Footprint=MOLEX_1050170001 - compact
+Change Physical Footprint: Designator=X13 Old Footprint=BAT_6S-2/3A +_6S-AA New Footprint=BAT_6S-2/3A +_6S-AA

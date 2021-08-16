@@ -1,0 +1,119 @@
+Change Component Designator: OldDesignator=HL2 NewDesignator=HL3
+Change Component Designator: OldDesignator=HL3 NewDesignator=HL4
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R17
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R18
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R33
+Change Component Designator: OldDesignator=R31 NewDesignator=R34
+Change Component Designator: OldDesignator=R32 NewDesignator=R35
+Change Component Designator: OldDesignator=R33 NewDesignator=R36
+Change Component Designator: OldDesignator=R34 NewDesignator=R37
+Change Component Designator: OldDesignator=R35 NewDesignator=R38
+Change Component Designator: OldDesignator=R36 NewDesignator=R39
+Change Component Designator: OldDesignator=R37 NewDesignator=R40
+Change Component Designator: OldDesignator=R38 NewDesignator=R41
+Change Component Designator: OldDesignator=R39 NewDesignator=R42
+Change Component Designator: OldDesignator=R40 NewDesignator=R43
+Change Component Designator: OldDesignator=R41 NewDesignator=R44
+Change Component Designator: OldDesignator=R42 NewDesignator=R45
+Change Component Designator: OldDesignator=R43 NewDesignator=R46
+Change Component Designator: OldDesignator=R44 NewDesignator=R47
+Change Component Designator: OldDesignator=R45 NewDesignator=R48
+Change Component Designator: OldDesignator=R46 NewDesignator=R49
+Change Component Designator: OldDesignator=R47 NewDesignator=R50
+Change Component Designator: OldDesignator=R48 NewDesignator=R51
+Change Component Designator: OldDesignator=R49 NewDesignator=R52
+Change Component Designator: OldDesignator=R50 NewDesignator=R53
+Change Component Designator: OldDesignator=R51 NewDesignator=R54
+Change Component Designator: OldDesignator=VT2 NewDesignator=VT3
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT4
+Change Component Designator: OldDesignator=VT4 NewDesignator=VT5
+Change Component Designator: OldDesignator=VT5 NewDesignator=VT6
+Added Component: Designator=HL2(LED_SMD1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "red-chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "green-chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/to-1608bc-pg?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "blue-chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/to-1608bc-bf?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "yellow-chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.chipdip.ru/product/to-1608bc-myf?from=suggest_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "red-elitan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.elitan.ru/price/item16986056"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R28(R_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R29(R_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT2(SOT23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/bc850b?from=suggest_product"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V8_EXT Pin=HL2-1
+Added Pin To Net: NetName=GPIO41 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=VT2-2
+Change Net Name : Old Net Name=NetHL2_2 New Net Name=NetHL3_2
+Change Net Name : Old Net Name=NetHL3_2 New Net Name=NetHL4_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR18_1
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NetR49_1 New Net Name=NetR52_1
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R29-2
+Added Net: Name=NetHL2_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=R28-2
+Added Pin To Net: NetName=NetR26_2 Pin=VT2-1
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=VT2-3
+Added Net: Name=NetR29_1
+Added Member To Class: ClassName=Sh1_MPU Member=Component HL2 TO-1608BC-MRE
+Added Member To Class: ClassName=Sh1_MPU Member=Component R1 0
+Added Member To Class: ClassName=Sh1_MPU Member=Component R2 68
+Added Member To Class: ClassName=Sh1_MPU Member=Component R3 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R5 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R7 22
+Added Member To Class: ClassName=Sh1_MPU Member=Component R8 22
+Added Member To Class: ClassName=Sh1_MPU Member=Component R10 2.2k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R13 2.2k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R15 39
+Added Member To Class: ClassName=Sh1_MPU Member=Component R16 47k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R20 2.2
+Added Member To Class: ClassName=Sh1_MPU Member=Component R21 0
+Added Member To Class: ClassName=Sh1_MPU Member=Component R23 SMD
+Added Member To Class: ClassName=Sh1_MPU Member=Component R24 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R25 1
+Added Member To Class: ClassName=Sh1_MPU Member=Component R26 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R28 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R29 360
+Added Member To Class: ClassName=Sh1_MPU Member=Component R31 0
+Added Member To Class: ClassName=Sh1_MPU Member=Component R32 10
+Added Member To Class: ClassName=Sh2_MCU Member=Component R35 10k
+Added Member To Class: ClassName=Sh3_Power Member=Component R37 1M
+Added Member To Class: ClassName=Sh3_Power Member=Component R38 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R40 WSC45272R000FEA
+Added Member To Class: ClassName=Sh3_Power Member=Component R43 100
+Added Member To Class: ClassName=Sh3_Power Member=Component R45 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R46 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R50 100k
+Added Member To Class: ClassName=Sh3_Power Member=Component R52 0.1
+Added Member To Class: ClassName=Sh3_Power Member=Component R53 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R54 SMD
+Added Member To Class: ClassName=Sh1_MPU Member=Component VT2 BC850B

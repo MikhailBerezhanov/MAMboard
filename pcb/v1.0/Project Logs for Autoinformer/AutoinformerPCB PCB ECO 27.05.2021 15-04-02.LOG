@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Sh1_MPU Member=TP9
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=X13 NewDesignator=X14
+Change Component Designator: OldDesignator=X14 NewDesignator=X15
+Added Component: Designator=X13(PLD2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=UART_RX_3V3 Pin=X13-1
+Added Pin To Net: NetName=UART_TX_3V3 Pin=X13-2
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetC32_1
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP1 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP3 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP5 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP8 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP11 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP12 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP14 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP15 Test_point
+Added Member To Class: ClassName=Sh2_MCU Member=Component X13 DS1021_1x2

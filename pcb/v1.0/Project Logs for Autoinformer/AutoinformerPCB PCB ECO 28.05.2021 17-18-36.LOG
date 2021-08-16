@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LCD_I2C_SCL Pin=TP6-1
+Removed Pin From Net: NetName=LCD_BCKLT Pin=TP7-1
+Removed Pin From Net: NetName=LCD_I2C_SDA Pin=TP8-1
+Removed Member From Class: ClassName=Sh1_MPU Member=TP6
+Removed Member From Class: ClassName=Sh1_MPU Member=TP7
+Removed Member From Class: ClassName=Sh1_MPU Member=TP8

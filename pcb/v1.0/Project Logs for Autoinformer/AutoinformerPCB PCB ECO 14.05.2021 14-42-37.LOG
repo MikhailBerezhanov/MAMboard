@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Change Component Designator: OldDesignator=R44 NewDesignator=R45
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R47 NewDesignator=R48
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R50
+Change Component Designator: OldDesignator=R50 NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=X12 NewDesignator=X13
+Change Component Designator: OldDesignator=X13 NewDesignator=X14
+Change Component Designator: OldDesignator=X? NewDesignator=X11
+Added Component: Designator=X12(PLD2-10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pld-20?from=suggest_product"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=X12-1
+Added Pin To Net: NetName=3V3 Pin=X12-2
+Added Pin To Net: NetName=PA0 Pin=X12-3
+Added Pin To Net: NetName=PB0 Pin=X12-4
+Added Pin To Net: NetName=PA1 Pin=X12-5
+Added Pin To Net: NetName=PB1 Pin=X12-6
+Added Pin To Net: NetName=USART2_TX Pin=X12-7
+Added Pin To Net: NetName=PB2 Pin=X12-8
+Added Pin To Net: NetName=USART2_RX Pin=X12-9
+Added Pin To Net: NetName=SWO Pin=X12-10
+Added Pin To Net: NetName=PA4 Pin=X12-11
+Added Pin To Net: NetName=I2C1_SCL Pin=X12-12
+Added Pin To Net: NetName=SPI1_SCK Pin=X12-13
+Added Pin To Net: NetName=I2C1_SDA Pin=X12-14
+Added Pin To Net: NetName=SPI1_MISO Pin=X12-15
+Added Pin To Net: NetName=I2C2_SCL Pin=X12-16
+Added Pin To Net: NetName=SPI1_MOSI Pin=X12-17
+Added Pin To Net: NetName=I2C2_SDA Pin=X12-18
+Added Pin To Net: NetName=GND Pin=X12-19
+Added Pin To Net: NetName=GND Pin=X12-20
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR48_1 New Net Name=NetR49_1
+Added Member To Class: ClassName=Sh2_MCU Member=Component X12 DS1021_2x10

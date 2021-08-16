@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USART2_RX Pin=X12-9
+Removed Pin From Net: NetName=SWO Pin=X12-10
+Added Pin To Net: NetName=SPI1_SCK Pin=X12-9
+Added Pin To Net: NetName=SPI1_MISO Pin=X12-10

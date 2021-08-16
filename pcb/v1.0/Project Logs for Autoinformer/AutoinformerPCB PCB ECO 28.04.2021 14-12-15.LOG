@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=X7 Old Footprint=390-021-12 New Footprint=2EDGR-5.08-02P
+Change Component Comment : Designator=X7 Old Comment=390-021-12 New Comment=2EDGR-5.08-02P
+Change component parameters: Designator = "X7"; Footprint = "2EDGR-5.08-02P"; UniqueID = "\KORANIRS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls2-edr-5.08-02p-4-2edgr-5.08-02p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "elitan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.elitan.ru/price/item21239767"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-U Pin=X13-1
+Added Pin To Net: NetName=+U Pin=X13-2

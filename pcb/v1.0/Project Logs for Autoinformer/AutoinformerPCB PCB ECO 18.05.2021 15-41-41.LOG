@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC41_1 Pin=L1-1
+Removed Pin From Net: NetName=NetC44_2 Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=R_SMD0603 New Footprint=L0603
+Added Pin To Net: NetName=NetC44_2 Pin=L1-1
+Added Pin To Net: NetName=NetC41_1 Pin=L1-2

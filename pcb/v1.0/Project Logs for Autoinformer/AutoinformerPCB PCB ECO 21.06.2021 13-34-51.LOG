@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=3V8 NewDesignator=TP16
+Change Component Designator: OldDesignator=3V8_EXT NewDesignator=TP12
+Change Component Designator: OldDesignator=ADC1 NewDesignator=TP1
+Change Component Designator: OldDesignator=BAK NewDesignator=TP13
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP15
+Change Component Description : Designator=VT1 Old Description=N-Channel MOSFET 60Â 0.115À [SOT-23] New Description=N-Channel MOSFET 60Â 0.115À [SOT-23]
+Added Component: Designator=TP3(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=1V8 Pin=TP3-1
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP4 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP5 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP8 Test_point

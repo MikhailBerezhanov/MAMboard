@@ -1,0 +1,2 @@
+Change Component Parameter Description in VD1 Old=12.5V Clamp 8A _8/20Aµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363 New=12.5V Clamp 8A _8/20µs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
+Replace Symbol from VD1 SMF05C in F:\_PROJECTS\_AutoInformer\new_version\pcb\Sh1_MPU.SchDoc with SMF05C from MyCompLib.SchLib

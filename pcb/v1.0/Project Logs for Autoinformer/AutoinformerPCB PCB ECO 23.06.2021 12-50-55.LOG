@@ -1,0 +1,13 @@
+Change Component Comment : Designator=X14 Old Comment=Keystone 1029 [1028] New Comment=2/3A [AA]
+Change Component Description : Designator=X14 Old Description=16340-2\3A [14500-AA] Battery Holder New Description=16340 Battery Holder with PC pins
+Also Accepts: CR2/3A
+Height above PCB: 15.1 mm
+Change Component Description : Designator=VT1 Old Description=N-Channel MOSFET 60Â 0.115À [SOT-23] New Description=N-Channel MOSFET 60Â 0.115À [SOT-23]
+Change component parameters: Designator = "X14"; Footprint = "BAT_keystone1028+1029"; UniqueID = "\QYQRNDDI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "keystone1029-elitan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elitan.ru/price/item468733"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "keystone1028-elitan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.elitan.ru/price/item535632"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "batteryholders"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.batteryholders.com/search.php?cat=Battery+Holder&num=&type=CR123A&term=&override=16340"; VariantName = "[No Variations]"

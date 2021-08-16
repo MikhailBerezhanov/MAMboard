@@ -1,0 +1,4 @@
+Change Component Parameter Description in VT6 Old=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23 New=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount/SOT-23
+Change Component Parameter Description in VT7 Old=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23 New=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount/SOT-23
+Replace Symbol from VT6 IRLML6402 in F:\_PROJECTS\_AutoInformer\new_version\pcb\Sh3_Power.SchDoc with IRLML6402 from MyCompLib.SchLib
+Replace Symbol from VT7 IRLML6402 in F:\_PROJECTS\_AutoInformer\new_version\pcb\Sh3_Power.SchDoc with IRLML6402 from MyCompLib.SchLib

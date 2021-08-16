@@ -1,0 +1,43 @@
+Removed Member From Class: ClassName=Sh2_MCU Member=R28
+Removed Member From Class: ClassName=Sh3_Power Member=R32
+Removed Member From Class: ClassName=Sh3_Power Member=TP6
+Change Component Footprint: Designator=X4 Old Footprint=PY601-N New Footprint=PY-601N
+Change Component Description : Designator=VD1 Old Description=12.5V Clamp 8A _8/20Aµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363 New Description=12.5V Clamp 8A _8/20Aµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
+Change Component Description : Designator=VT4 Old Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23 New Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23
+Change Component Description : Designator=VT5 Old Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23 New Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23
+Change component parameters: Designator = "X3"; Footprint = "PY-401N"; UniqueID = "\TGTMYDLG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "elitan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elitan.ru/price/index.php?find=PY-401N&delay=-1&mfg=all&seenform=y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/py-401n"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sh1_MPU Member=Component C3 10 pF
+Added Member To Class: ClassName=Sh1_MPU Member=Component C4 10 pF
+Added Member To Class: ClassName=Sh1_MPU Member=Component R2 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R5 22
+Added Member To Class: ClassName=Sh1_MPU Member=Component R8 0
+Added Member To Class: ClassName=Sh1_MPU Member=Component R10 2.2k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R12 2.2k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R13 39
+Added Member To Class: ClassName=Sh1_MPU Member=Component R16 220
+Added Member To Class: ClassName=Sh1_MPU Member=Component R18 0
+Added Member To Class: ClassName=Sh1_MPU Member=Component R21 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R23 1
+Added Member To Class: ClassName=Sh1_MPU Member=Component R26 0
+Added Member To Class: ClassName=Sh2_MCU Member=Component R29 10k
+Added Member To Class: ClassName=Sh2_MCU Member=Component R31 10k
+Added Member To Class: ClassName=Sh3_Power Member=Component R33 1M
+Added Member To Class: ClassName=Sh3_Power Member=Component R35 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R38 1k
+Added Member To Class: ClassName=Sh3_Power Member=Component R40 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R43 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R45 NA
+Added Member To Class: ClassName=Sh3_Power Member=Component R47 100k
+Added Member To Class: ClassName=Sh3_Power Member=Component R49 SMD
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP5 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP8 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP11 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP13 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP14 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component X1 47553-0001
+Added Member To Class: ClassName=Sh1_MPU Member=Component X4 PY-601N

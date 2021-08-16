@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=X9-2
+Removed Pin From Net: NetName=GND Pin=X9-3
+Removed Pin From Net: NetName=GND Pin=X10-2
+Removed Pin From Net: NetName=GND Pin=X10-3
+Change Component Footprint: Designator=X9 Old Footprint=HIROSE_0_MFG New Footprint=SMA-FEMALE-RA - L-KLS1-SMA002-B
+Change Component Footprint: Designator=X10 Old Footprint=HIROSE_0_MFG New Footprint=SMA-FEMALE-RA - L-KLS1-SMA002-B
+Change Component Comment : Designator=X9 Old Comment=U_FL-R-SMT-1_10 New Comment=KLS1-SMA002-B
+Change Component Comment : Designator=X10 Old Comment=U_FL-R-SMT-1_10 New Comment=KLS1-SMA002-B
+Change component parameters: Designator = "X9"; Footprint = "SMA-FEMALE-RA - L-KLS1-SMA002-B"; UniqueID = "\TCDVKOZC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "RA-Molex-0731000114"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elitan.ru/price/item639782"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "RA-L-KLS1-SMA015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.elitan.ru/price/item15217386"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "RA - HYR-1141"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.elitan.ru/price/item12599392"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Molex-0733910060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.elitan.ru/price/item715759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "FEMALE-RA-KLS1-SMA006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.elitan.ru/price/item18597090"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "FEMALE-RA - L-KLS1-SMA002-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.platan.ru/cgi-bin/qwery.pl/id=356964102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "FEMALE-RA - L-KLS1-SMA002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.elitan.ru/price/item9893558"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X10"; Footprint = "SMA-FEMALE-RA - L-KLS1-SMA002-B"; UniqueID = "\FKULNQKC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "RA-Molex-0731000114"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elitan.ru/price/item639782"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "RA-L-KLS1-SMA015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.elitan.ru/price/item15217386"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "RA - HYR-1141"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.elitan.ru/price/item12599392"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Molex-0733910060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.elitan.ru/price/item715759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "FEMALE-RA-KLS1-SMA006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.elitan.ru/price/item18597090"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "FEMALE-RA - L-KLS1-SMA002-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.platan.ru/cgi-bin/qwery.pl/id=356964102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "FEMALE-RA - L-KLS1-SMA002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.elitan.ru/price/item9893558"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X9-G
+Added Pin To Net: NetName=GND Pin=X9-G
+Added Pin To Net: NetName=GND Pin=X9-G
+Added Pin To Net: NetName=GND Pin=X9-G
+Added Pin To Net: NetName=GND Pin=X10-G
+Added Pin To Net: NetName=GND Pin=X10-G
+Added Pin To Net: NetName=GND Pin=X10-G
+Added Pin To Net: NetName=GND Pin=X10-G

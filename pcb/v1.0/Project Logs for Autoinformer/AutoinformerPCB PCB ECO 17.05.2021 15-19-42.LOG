@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PB1 Pin=X12-6
+Removed Pin From Net: NetName=PB2 Pin=X12-8
+Removed Pin From Net: NetName=SPI1_MISO Pin=X12-13
+Removed Pin From Net: NetName=SPI1_MOSI Pin=X12-14
+Removed Member From Class: ClassName=Sh1_MPU Member=TP13
+Removed Member From Class: ClassName=Sh1_MPU Member=TP14
+Added Pin To Net: NetName=PB1 Pin=X12-13
+Added Pin To Net: NetName=PB2 Pin=X12-14
+Added Member To Class: ClassName=Sh1_MPU Member=Component C33 0.1uF
+Added Member To Class: ClassName=Sh1_MPU Member=Component C35 K50-35 470uF 16V
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP4 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP5 Test_point
+Added Member To Class: ClassName=Sh1_MPU Member=Component TP9 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP10 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP11 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP12 Test_point
+Added Member To Class: ClassName=Sh3_Power Member=Component TP15 Test_point

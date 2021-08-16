@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=D1 Old Footprint=NAU8810YG New Footprint=NAU8810YG
+Change Physical Footprint: Designator=DA1 Old Footprint=TDA2003V New Footprint=TDA2003V
+Change Physical Footprint: Designator=LC1 Old Footprint=Murata_BNX_L12MM5_W11MM5_T13MM0_MFG New Footprint=Murata_BNX_L12MM5_W11MM5_T13MM0_MFG
+Change Physical Footprint: Designator=TP2 Old Footprint=TEST_POINT New Footprint=TEST_POINT
+Change Physical Footprint: Designator=X1 Old Footprint=MOLEX_1050170001 New Footprint=MOLEX_1050170001
+Change Physical Footprint: Designator=X3 Old Footprint=112JTDARR New Footprint=112JTDARR

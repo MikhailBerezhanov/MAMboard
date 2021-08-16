@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=5V_USB Pin=VD2-3
+Removed Pin From Net: NetName=USB_P Pin=VD2-4
+Removed Member From Class: ClassName=Sh3_Power Member=C53
+Removed Member From Class: ClassName=Sh3_Power Member=R36
+Change Component Footprint: Designator=VD2 Old Footprint=SP0503BAHTG New Footprint=ESD9L5_514AB
+Change Component Comment : Designator=VD2 Old Comment=SP0503BAHTG New Comment=ESD9L5.0ST5G
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD8
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD9 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD10 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD14
+Change component parameters: Designator = "VD2"; Footprint = "ESD9L5_514AB"; UniqueID = "\SWWLITCD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "elitan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elitan.ru/price/index.php?find=ESD9L5.0ST5G&delay=-1&mfg=all&seenform=y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product0/8001926257"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(ESD9L5_514AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "elitan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elitan.ru/price/index.php?find=ESD9L5.0ST5G&delay=-1&mfg=all&seenform=y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product0/8001926257"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(ESD9L5_514AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "elitan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elitan.ru/price/index.php?find=ESD9L5.0ST5G&delay=-1&mfg=all&seenform=y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product0/8001926257"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VD3-1
+Added Pin To Net: NetName=5V_USB Pin=VD3-2
+Added Pin To Net: NetName=GND Pin=VD4-1
+Added Pin To Net: NetName=USB_P Pin=VD4-2
+Added Member To Class: ClassName=Sh1_MPU Member=Component C41 NÑ
+Added Member To Class: ClassName=Sh1_MPU Member=Component C42 NÑ
+Added Member To Class: ClassName=Sh1_MPU Member=Component C43 33pF
+Added Member To Class: ClassName=Sh2_MCU Member=Component C44 0.1uF
+Added Member To Class: ClassName=Sh2_MCU Member=Component C46 0.1uF
+Added Member To Class: ClassName=Sh2_MCU Member=Component C47 0.1uF
+Added Member To Class: ClassName=Sh2_MCU Member=Component C49 22pF
+Added Member To Class: ClassName=Sh2_MCU Member=Component C50 22pF
+Added Member To Class: ClassName=Sh2_MCU Member=Component C51 0.1uF
+Added Member To Class: ClassName=Sh2_MCU Member=Component C52 0.1uF
+Added Member To Class: ClassName=Sh3_Power Member=Component C55 K50-35 220uF 50V
+Added Member To Class: ClassName=Sh3_Power Member=Component C56 10uF
+Added Member To Class: ClassName=Sh3_Power Member=Component C57 K50-35 220uF 16V
+Added Member To Class: ClassName=Sh3_Power Member=Component C58 0.1uF 50V
+Added Member To Class: ClassName=Sh3_Power Member=Component C60 0.1uF
+Added Member To Class: ClassName=Sh3_Power Member=Component C61 K50-35 100uF 16V
+Added Member To Class: ClassName=Sh3_Power Member=Component C63 10uF
+Added Member To Class: ClassName=Sh3_Power Member=Component C64 K50-35 33uF 6.3V
+Added Member To Class: ClassName=Sh3_Power Member=Component C65 0.1uF
+Added Member To Class: ClassName=Sh3_Power Member=Component C66 0.1uF
+Added Member To Class: ClassName=Sh3_Power Member=Component C68 K50-35 220uF 6.3V
+Added Member To Class: ClassName=Sh3_Power Member=Component C69 K50-35 220uF 16V
+Added Member To Class: ClassName=Sh3_Power Member=Component C71 K50-35 100uF 10V
+Added Member To Class: ClassName=Sh3_Power Member=Component C72 K50-35 100uF 10V
+Added Member To Class: ClassName=Sh3_Power Member=Component C73 K50-35 220uF 6.3V
+Added Member To Class: ClassName=Sh3_Power Member=Component C74 K50-35 220uF 6.3V
+Added Member To Class: ClassName=Sh3_Power Member=Component C76 0.1uF
+Added Member To Class: ClassName=Sh1_MPU Member=Component R33 10
+Added Member To Class: ClassName=Sh2_MCU Member=Component R35 10k
+Added Member To Class: ClassName=Sh2_MCU Member=Component R37 22
+Added Member To Class: ClassName=Sh3_Power Member=Component R38 1M
+Added Member To Class: ClassName=Sh3_Power Member=Component R39 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R42 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R44 100
+Added Member To Class: ClassName=Sh3_Power Member=Component R47 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R49 470
+Added Member To Class: ClassName=Sh3_Power Member=Component R51 100k
+Added Member To Class: ClassName=Sh3_Power Member=Component R53 0.1
+Added Member To Class: ClassName=Sh3_Power Member=Component R54 SMD
+Added Member To Class: ClassName=Sh1_MPU Member=Component VD6 SP0503BAHTG
+Added Member To Class: ClassName=Sh1_MPU Member=Component VD7 MMSZ5231B-TP
+Added Member To Class: ClassName=Sh1_MPU Member=Component VD8 LXES15AAA1-153
+Added Member To Class: ClassName=Sh3_Power Member=Component VD9 SS36
+Added Member To Class: ClassName=Sh3_Power Member=Component VD13 SS34
+Added Member To Class: ClassName=Sh3_Power Member=Component VD14 SS36
+Added Member To Class: ClassName=Sh1_MPU Member=Component X8 U_FL-R-SMT-1_10
+Added Member To Class: ClassName=Sh1_MPU Member=Component X9 KLS1-SMA002-B
+Added Member To Class: ClassName=Sh2_MCU Member=Component X11 DS1021_2x8

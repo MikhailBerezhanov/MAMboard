@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=DA1-3
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=X7-1
+Change Component Description : Designator=VD1 Old Description=12.5V Clamp 8A _8/20Aµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363 New Description=12.5V Clamp 8A _8/20Aµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
+Change Component Description : Designator=VT4 Old Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3aД?/SOT-23 New Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3aД?/SOT-23
+Change Component Description : Designator=VT5 Old Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3aД?/SOT-23 New Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3aД?/SOT-23
+Change Component Description : Designator=X7 Old Description= леммник разъемный угловой 2 конт., шаг 5.08 мм
+(KLS2-EDR-5.08-02P-4) New Description= леммник разъемный угловой 2 конт., шаг 5.08 мм
+(KLS2-EDR-5.08-02P-4)
+2EDGK-5.08-02P - ответна€ часть
+Change Component Description : Designator=X13 Old Description= леммник разъемный угловой 2 конт., шаг 5.08 мм
+(KLS2-EDR-5.08-02P-4) New Description= леммник разъемный угловой 2 конт., шаг 5.08 мм
+(KLS2-EDR-5.08-02P-4)
+2EDGK-5.08-02P - ответна€ часть
+Change component parameters: Designator = "X7"; Footprint = "2EDGR-5.08-02P"; UniqueID = "\KORANIRS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls2-edr-5.08-02p-4-2edgr-5.08-02p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "elitan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.elitan.ru/price/item21239767"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "ответна€-часть"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.elitan.ru/price/item130957"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "на-кабель"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.chipdip.ru/product/kls2-edk-5.08-02p-4s-2esdv-02p?from=suggest_product"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X13"; Footprint = "2EDGR-5.08-02P"; UniqueID = "\QYKIRWEW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "chipdip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls2-edr-5.08-02p-4-2edgr-5.08-02p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "elitan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.elitan.ru/price/item21239767"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "ответна€-часть"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.elitan.ru/price/item130957"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "на-кабель"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.chipdip.ru/product/kls2-edk-5.08-02p-4s-2esdv-02p?from=suggest_product"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C31-2
+Added Pin To Net: NetName=AGND Pin=DA1-3
+Added Pin To Net: NetName=AGND Pin=R18-2
+Added Pin To Net: NetName=AGND Pin=R24-2
+Added Pin To Net: NetName=AGND Pin=X7-1

@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=Sh1_MPU Member=HL4
+Removed Member From Class: ClassName=Sh1_MPU Member=R33
+Removed Member From Class: ClassName=Sh1_MPU Member=R37
+Removed Member From Class: ClassName=Sh2_MCU Member=R37
+Removed Member From Class: ClassName=Sh2_MCU Member=R42
+Removed Member From Class: ClassName=Sh1_MPU Member=R50
+Removed Member From Class: ClassName=Sh2_MCU Member=R50
+Removed Member From Class: ClassName=Sh1_MPU Member=VT3
+Change Component Footprint: Designator=X3 Old Footprint=PY-401N New Footprint=PY-401N - compact
+Change Component Footprint: Designator=X4 Old Footprint=PY-601N New Footprint=PY-601N - compact
+Added Member To Class: ClassName=Sh1_MPU Member=Component HL2 TO-1608BC-MRE
+Added Member To Class: ClassName=Sh3_Power Member=Component HL3 TO-1608BC-MRE
+Added Member To Class: ClassName=Sh1_MPU Member=Component R14 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R16 47k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R17 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R20 2.2
+Added Member To Class: ClassName=Sh1_MPU Member=Component R22 SMD
+Added Member To Class: ClassName=Sh1_MPU Member=Component R25 1
+Added Member To Class: ClassName=Sh1_MPU Member=Component R26 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R27 47k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R28 10k
+Added Member To Class: ClassName=Sh1_MPU Member=Component R29 360
+Added Member To Class: ClassName=Sh1_MPU Member=Component R30 0
+Added Member To Class: ClassName=Sh1_MPU Member=Component R31 0
+Added Member To Class: ClassName=Sh2_MCU Member=Component R34 10k
+Added Member To Class: ClassName=Sh2_MCU Member=Component R35 10k
+Added Member To Class: ClassName=Sh2_MCU Member=Component R36 22
+Added Member To Class: ClassName=Sh3_Power Member=Component R37 1M
+Added Member To Class: ClassName=Sh3_Power Member=Component R38 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R39 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R40 WSC45272R000FEA
+Added Member To Class: ClassName=Sh3_Power Member=Component R41 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R43 100
+Added Member To Class: ClassName=Sh3_Power Member=Component R44 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R45 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R46 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R47 SMD
+Added Member To Class: ClassName=Sh3_Power Member=Component R48 470
+Added Member To Class: ClassName=Sh1_MPU Member=Component VT2 BC850B
+Added Member To Class: ClassName=Sh3_Power Member=Component VT4 BSS138
