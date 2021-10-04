@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: D:\MyProjects\SocSys\auto_informer\autoinformer\pcb\v1.1\AutoinformerPCB.PcbDoc
+RuleKind=Clearance|RuleName=MountingHoleClearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=BodyConnPadClearance|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=ViaMinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
