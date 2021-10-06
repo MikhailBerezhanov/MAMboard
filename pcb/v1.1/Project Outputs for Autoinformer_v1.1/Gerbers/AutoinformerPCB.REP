@@ -2,87 +2,6 @@
 FileName = AutoinformerPCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : AutoinformerPCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D17
-    D23
-    D119
-    D120
-    D122
-    D123
-    D124
-    D126
-    D130
-    D131
-    D132
-    D155
-    D157
-    D166
-    D167
-    D176
-    D177
-    D179
-    D180
-    D187
-    D189
-    D190
-    D193
-    D195
-    D196
-    D198
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
-    D223
-    D224
-    D225
-    D226
-    D227
-    D228
-    D229
-    D230
-    D231
-    D232
-    D233
-    D234
-    D235
-    D236
-    D237
-    D238
-    D239
-    D240
-    D241
-    D242
-    D243
-    D244
-    D245
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : AutoinformerPCB.GTL
 
@@ -214,6 +133,180 @@ Used DCodes :
     D226
     D227
     D228
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : AutoinformerPCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D17
+    D23
+    D119
+    D120
+    D122
+    D123
+    D124
+    D126
+    D130
+    D131
+    D132
+    D155
+    D157
+    D166
+    D167
+    D176
+    D177
+    D179
+    D180
+    D187
+    D188
+    D190
+    D193
+    D195
+    D196
+    D198
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+    D245
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : AutoinformerPCB.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : AutoinformerPCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D124
+    D255
+    D256
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : AutoinformerPCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D27
+    D29
+    D30
+    D55
+    D57
+    D66
+    D67
+    D80
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D239
+    D240
+    D241
+    D242
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+    D253
+    D254
 *************************************************************
 
 *************************************************************
@@ -350,98 +443,5 @@ Used DCodes :
     D19
     D20
     D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : AutoinformerPCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D27
-    D29
-    D30
-    D55
-    D57
-    D66
-    D67
-    D80
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D239
-    D240
-    D241
-    D242
-    D246
-    D247
-    D248
-    D249
-    D250
-    D251
-    D252
-    D253
-    D254
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : AutoinformerPCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D14
-    D124
-    D255
-    D256
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : AutoinformerPCB.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-    D14
 *************************************************************
 

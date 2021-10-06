@@ -158,9 +158,9 @@ D183  RECTANGULAR       157.480     232.284       0.000 FLASH       0.000
 D184  RECTANGULAR       181.102      90.551       0.000 FLASH       0.000
 D185  RECTANGULAR       133.937      98.937       0.000 FLASH      90.000
 D186  RECTANGULAR        60.039      27.559       0.000 FLASH       0.000
-D187  ROUNDED            31.496      31.496       0.000  LINE       0.000
-D188  ROUNDED            43.307      43.307       0.000  LINE       0.000
-D189  ROUNDED            15.748      15.748       0.000  LINE       0.000
+D187  ROUNDED            15.748      15.748       0.000  LINE       0.000
+D188  ROUNDED            31.496      31.496       0.000  LINE       0.000
+D189  ROUNDED            43.307      43.307       0.000  LINE       0.000
 D190  ROUNDED            12.598      12.598       0.000  LINE       0.000
 D191  ROUNDED            62.992      62.992       0.000  LINE       0.000
 D192  ROUNDED            78.740      78.740       0.000  LINE       0.000
