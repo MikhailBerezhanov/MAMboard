@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\MyProjects\SocSys\auto_informer\autoinformer\pcb\v1.1\AutoinformerPCB.PcbDoc
+DRC Rules Export File for PCB: F:\_PROJECTS\_AutoInformer\new_version\pcb\v1.1\AutoinformerPCB.PcbDoc
 RuleKind=Clearance|RuleName=MountingHoleClearance|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=BodyConnPadClearance|Scope=Board|Minimum=7.87
 RuleKind=MinimumAnnularRing|RuleName=ViaMinimumAnnularRing|Scope=Board|Minimum=5.91

@@ -12,9 +12,8 @@ Generating : Top Layer
 
 Used DCodes :
     D11
-    D17
-    D23
-    D28
+    D16
+    D31
     D42
     D43
     D72
@@ -24,8 +23,10 @@ Used DCodes :
     D83
     D84
     D85
-    D119
+    D117
+    D118
     D120
+    D121
     D122
     D123
     D124
@@ -136,6 +137,104 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : AutoinformerPCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D25
+    D32
+    D44
+    D55
+    D57
+    D66
+    D67
+    D79
+    D80
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D240
+    D241
+    D242
+    D243
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+    D253
+    D254
+    D255
+    D256
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : AutoinformerPCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : AutoinformerPCB.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : AutoinformerPCB.GBL
 
@@ -146,29 +245,30 @@ Generating : Bottom Layer
 
 Used DCodes :
     D11
-    D17
-    D23
-    D119
+    D16
+    D117
+    D118
     D120
+    D121
     D122
-    D123
     D124
-    D126
-    D130
-    D131
-    D132
-    D155
-    D157
-    D166
+    D125
+    D129
+    D135
+    D145
+    D156
+    D158
     D167
-    D176
+    D168
     D177
-    D179
+    D178
     D180
+    D181
+    D186
     D187
     D188
-    D190
-    D193
+    D189
+    D191
     D195
     D196
     D198
@@ -214,17 +314,7 @@ Used DCodes :
     D243
     D244
     D245
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : AutoinformerPCB.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-    D14
+    D246
 *************************************************************
 
 *************************************************************
@@ -238,75 +328,11 @@ Used DCodes :
     D10
     D11
     D12
-    D14
-    D124
-    D255
-    D256
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : AutoinformerPCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D27
-    D29
-    D30
-    D55
-    D57
-    D66
-    D67
-    D80
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D239
-    D240
-    D241
-    D242
-    D246
-    D247
-    D248
-    D249
-    D250
-    D251
-    D252
-    D253
-    D254
+    D13
+    D122
+    D257
+    D258
+    D259
 *************************************************************
 
 *************************************************************
@@ -321,6 +347,8 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D20
+    D21
     D22
     D23
     D24
@@ -419,29 +447,5 @@ Used DCodes :
     D117
     D118
     D119
-    D120
-    D121
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : AutoinformerPCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
 *************************************************************
 
