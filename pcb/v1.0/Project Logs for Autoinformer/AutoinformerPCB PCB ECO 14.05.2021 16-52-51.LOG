@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=LCD_I2C_SCL Pin=TP5-1
-Removed Pin From Net: NetName=LCD_BCKLT Pin=TP6-1
-Removed Pin From Net: NetName=5V Pin=X6-1
-Removed Pin From Net: NetName=GND Pin=X6-5
-Added Pin To Net: NetName=LCD_BCKLT Pin=TP5-1
-Added Pin To Net: NetName=LCD_I2C_SCL Pin=TP6-1
-Added Pin To Net: NetName=GND Pin=X6-1
-Added Pin To Net: NetName=5V Pin=X6-5

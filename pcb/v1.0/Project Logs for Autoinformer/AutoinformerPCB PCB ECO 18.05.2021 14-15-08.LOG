@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetC27_1 Pin=TP3-1
-Removed Member From Class: ClassName=Sh1_MPU Member=TP3
-Change Component Description : Designator=VD1 Old Description=12.5V Clamp 8A _8/20Aµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363 New Description=12.5V Clamp 8A _8/20Aµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363
-Change Component Description : Designator=VT4 Old Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23 New Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23
-Change Component Description : Designator=VT5 Old Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23 New Description=P-Channel 20V 3.7A _Ta_ 1.3W _Ta_ Surface Mount Micro3a„?/SOT-23

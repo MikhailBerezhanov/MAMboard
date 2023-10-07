@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=Sh1_MPU Member=TP10
-Added Member To Class: ClassName=Sh1_MPU Member=Component TP3 Test_point
-Added Member To Class: ClassName=Sh1_MPU Member=Component TP4 Test_point
-Added Member To Class: ClassName=Sh1_MPU Member=Component TP7 Test_point
-Added Member To Class: ClassName=Sh3_Power Member=Component TP9 Test_point
-Added Member To Class: ClassName=Sh3_Power Member=Component TP13 Test_point
-Added Member To Class: ClassName=Sh3_Power Member=Component TP14 Test_point

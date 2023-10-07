@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SPEAKER Pin=X7-1
-Removed Pin From Net: NetName=GND Pin=X7-2
-Added Pin To Net: NetName=GND Pin=X7-1
-Added Pin To Net: NetName=SPEAKER Pin=X7-2

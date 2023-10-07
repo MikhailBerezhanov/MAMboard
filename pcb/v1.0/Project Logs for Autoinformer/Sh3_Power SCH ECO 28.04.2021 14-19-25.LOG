@@ -1,8 +1,0 @@
-Change Component Parameter Description in X13 Old=Клеммник разъемный угловой 2 конт., шаг 5.08 мм
-(KLS2-EDR-5.08-02P-4) New=Клеммник разъемный угловой 2 конт., шаг 5.08 мм
-(KLS2-EDR-5.08-02P-4)
-2EDGK-5.08-02P - ответная часть
-Added Parameter ComponentLink3Description=ответная-часть to Part X13
-Added Parameter ComponentLink3URL=https://www.elitan.ru/price/item130957 to Part X13
-Added Parameter ComponentLink4Description=на-кабель to Part X13
-Added Parameter ComponentLink4URL=https://www.chipdip.ru/product/kls2-edk-5.08-02p-4s-2esdv-02p?from=suggest_product to Part X13

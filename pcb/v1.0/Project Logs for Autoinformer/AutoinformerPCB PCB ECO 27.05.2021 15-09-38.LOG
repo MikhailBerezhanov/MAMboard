@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=UART_RX_3V3 Pin=X13-1
-Removed Pin From Net: NetName=UART_TX_3V3 Pin=X13-2
-Removed Member From Class: ClassName=Sh2_MCU Member=X14
-Added Pin To Net: NetName=UART_TX_3V3 Pin=X13-1
-Added Pin To Net: NetName=UART_RX_3V3 Pin=X13-2
-Added Member To Class: ClassName=Sh1_MPU Member=Component C33 0.1uF
-Added Member To Class: ClassName=Sh1_MPU Member=Component R16 10k
-Added Member To Class: ClassName=Sh1_MPU Member=Component R26 47k
-Added Member To Class: ClassName=Sh2_MCU Member=Component X13 DS1021_1x2

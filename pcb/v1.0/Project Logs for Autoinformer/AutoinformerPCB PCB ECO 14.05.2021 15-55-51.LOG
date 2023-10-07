@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GPIO41_3V3 Pin=DD1-38
-Removed Pin From Net: NetName=GPIO77_3V3 Pin=R33-2
-Added Pin To Net: NetName=GPIO77_3V3 Pin=DD1-33
-Added Pin To Net: NetName=GPIO41_3V3 Pin=R33-2

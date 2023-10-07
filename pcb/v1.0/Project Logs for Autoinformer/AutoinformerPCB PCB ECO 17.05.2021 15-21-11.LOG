@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=PB0 Pin=X12-4
-Removed Pin From Net: NetName=SPI1_SCK Pin=X12-11
-Removed Pin From Net: NetName=PA4 Pin=X12-12
-Added Pin To Net: NetName=SPI1_MOSI Pin=X12-11
-Added Pin To Net: NetName=PB0 Pin=X12-12

@@ -1,10 +1,15 @@
-# Проект печатной платы автоинформатора 
+# 
+## Online audio system
 
-## Установка зависимостей
+![board image](/board_img.jpg)
 
-Разработка платы ведется в программной среде Altium Designer 19.
-Библиотека используемых радио-электронных компонентов подключается
-в виде подмодуля:
+This device 
+
+
+
+### Dependencies
+PCB development is performed using `Altium Designer 19` and higher.
+Components library is linked as separate submodule:
 
 ```bash
 git submodule init
@@ -13,12 +18,14 @@ cd pcb/libs
 git checkout master
 ```
 
-## BOM and Gerbers
+### Manufacturing and assembly
+Current project provides all necessary files for _pcb order_:
 
-Результатами разработки различных версий являются:
+* Bill of materials (BOM)
+* Gerber files
+* Assembly drawings
 
-* Перечень используемых компонентов (BOM)
-* Гербер-файлы для изготовления печатной платы (Gerbers)
-
-Вышеуказанные сущности генерируются средой разработки и располагаются в:
+Files mentioned above are located in:
 `./pcb/vX.X/Project Outputs for Autoinformer_vX.X/`
+
+where `X.X` is version of the board. The lastest version for now is `1.1`.

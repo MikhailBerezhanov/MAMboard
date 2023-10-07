@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=USART2_TX Pin=X12-7
-Added Pin To Net: NetName=USART2_RX Pin=X12-7
-Added Pin To Net: NetName=PA4 Pin=X12-8
