@@ -6,11 +6,13 @@
 This project includes board scheme and manufacturing details. Current revision is `1.1`.
 Board main features:
 * Input power range 14V..28V
+* Reserve 4.2V Accumulator power source for MPU
 * Internet connection using onbard 4G LTE (SIM card needed)
 * GPS connection (3V external antenna needed)
 * AUDIO In (microphone input can be routed to amplified audio out)
 * AUDIO Out Amplified (ready for external speaker use)
 * External Memory storage (uSD card)
+* ADB console (microUSB)
 * Open-Linux programmable board
 
 ### Dependencies
